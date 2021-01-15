@@ -1,6 +1,6 @@
 # TrueDei Blog
 >用spring boot开发的web博客系统，包括前端和后端源代码，还有sql文件。还有详细的搭建过程。
-
+成员：满建丛
 ****
 
 
